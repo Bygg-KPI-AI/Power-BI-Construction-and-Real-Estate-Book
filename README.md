@@ -10,7 +10,7 @@
 This Power BI app is under testing. It includes several interactive charts connected to public statistics databases of [Statistics Norway](https://www.ssb.no) about prices and indexes that are relevant about Norwegian Construction and Real Estate. All the text of the charts and sliders is in Norwegian.
 
 Screenshot:
-<img src="Documents/Bygge-_og_eiendomsbok.png" alt="Bygge- og eiendomsbok" style="width: 1000px" />
+<img src="Documents/Construction_and_Real_Estate_Book.png" alt="Bygge- og eiendomsbok" style="width: 1000px" />
 
 The current version includes, for example, the following datasets:
 
