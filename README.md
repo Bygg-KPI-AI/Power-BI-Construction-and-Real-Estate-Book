@@ -14,14 +14,15 @@ Screenshot:
 
 The current version includes, for example, the following datasets:
 
-- Byggekostnader:
-    * Produsentprisindeksen [07199: Spotpris metaller](https://www.ssb.no/statbank/table/07199)
-    * Skogavvirkning for salg [07405: Gjennomsnittspris, etter sortiment (kr per m³)](https://www.ssb.no/statbank/table/07405)
-    * Elektrisitetspriser [09364: Kraftpriser i sluttbrukermarkedet, etter kontraktstype](https://www.ssb.no/statbank/table/09364)
-    * Sal av petroleumsprodukt og flytande biodrivstoff [09654: Priser på drivstoff (kr per liter)](https://www.ssb.no/statbank/table/09654)
+- Construction Costs:
+    * Producer price index [07199: Spot prices metals](https://www.ssb.no/en/statbank/table/07199)
+    * SCommercial roundwood removals [07405: Average price, by assortment (NOK per m³)](https://www.ssb.no/en/statbank/table/07405)
+    * Sales of petroleum products and liquid biofuels [09654: Prices on engine fuel (NOK per litres)](https://www.ssb.no/en/statbank/table/09654)
+    * Electricity prices [14491: Electricity prices in the end-user market, by contract type](https://www.ssb.no/en/statbank/table/09364)
 
 
-It also includes 10 charts  in the group 'Byggekostnadsindekser'.
+
+It also includes 10 charts  in the group 'Construction Cost Indexes'.
 
 
 > [!IMPORTANT]
