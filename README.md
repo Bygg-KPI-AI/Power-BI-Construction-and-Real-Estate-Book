@@ -1,11 +1,11 @@
 <img src="Documents/Logo Black.jpg" alt="ByggKPI Logo" style="width: 200px" />  
 
-# Power BI: Bygge- og eiendomsbok
+# Power BI: Construction and Real Estate Book
 
 [![Install from Microsoft Store][badge]][store]
 
 [badge]: https://img.shields.io/badge/Install_from-Microsoft_Store-blue?style=for-the-badge&logot&logoColor=white
-[store]: https://marketplace.microsoft.com/en-us/product/power-bi/byggkpi1713816406537.a0001b_construction_and_real_estate_book
+[store]: https://marketplace.microsoft.com/en-us/product/power-bi/byggkpi1713816406537.a0001b_construction_and_real_estate_book?tab=Overview
 
 This Power BI app is under testing. It includes several interactive charts connected to public statistics databases of [Statistics Norway](https://www.ssb.no) about prices and indexes that are relevant about Norwegian Construction and Real Estate. All the text of the charts and sliders is in Norwegian.
 
