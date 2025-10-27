@@ -2,9 +2,9 @@
 
 # Power BI: Construction and Real Estate Book
 
-[![Install from Microsoft Store][badge]][store]
+[![Install from Microsoft MArketplace][badge]][store]
 
-[badge]: https://img.shields.io/badge/Install_from-Microsoft_Store-blue?style=for-the-badge&logot&logoColor=white
+[badge]: https://img.shields.io/badge/Install_from-Microsoft_Marketplace-blue?style=for-the-badge&logot&logoColor=white
 [store]: https://marketplace.microsoft.com/en-us/product/power-bi/byggkpi1713816406537.a0001b_construction_and_real_estate_book?tab=Overview
 
 This Power BI app is under testing. It includes several interactive charts connected to public statistics databases of [Statistics Norway](https://www.ssb.no) about prices and indexes that are relevant about Norwegian Construction and Real Estate. All the text of the charts and sliders is in Norwegian.
@@ -35,4 +35,4 @@ It also includes 10 charts  in the group 'Construction Cost Indexes'.
 >
 > You can also get the [norwegian version](https://github.com/Bygg-KPI-AI/Power-BI-Bygge-og-eiendomsbok) of this app.
 
-[![Install from Microsoft Store](https://img.shields.io/badge/Install_from-Microsoft_Store-blue?style=for-the-badge&logoColor=Store-blue)](https://marketplace.microsoft.com/en-us/product/power-bi/byggkpi1713816406537.a0001b_construction_and_real_estate_book?tab=Overview)
+[![Install from Microsoft Marketplace](https://img.shields.io/badge/Install_from-Microsoft_Marketplace-blue?style=for-the-badge&logoColor=Store-blue)](https://marketplace.microsoft.com/en-us/product/power-bi/byggkpi1713816406537.a0001b_construction_and_real_estate_book?tab=Overview)
