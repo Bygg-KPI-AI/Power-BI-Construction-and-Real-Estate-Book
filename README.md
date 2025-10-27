@@ -33,6 +33,6 @@ It also includes 10 charts  in the group 'Construction Cost Indexes'.
 > [!NOTE]
 > The updating of the datasets is implemented but under testing.
 >
-> You can also get the [norwegian version](https://github.com/Bygg-KPI-AI/Power-BI-Bygge-og-eiendomsbok)
+> You can also get the [norwegian version](https://github.com/Bygg-KPI-AI/Power-BI-Bygge-og-eiendomsbok) of this app.
 
 [![Install from Microsoft Store](https://img.shields.io/badge/Install_from-Microsoft_Store-blue?style=for-the-badge&logoColor=Store-blue)](https://marketplace.microsoft.com/en-us/product/power-bi/byggkpi1713816406537.a0001b_construction_and_real_estate_book?tab=Overview)
